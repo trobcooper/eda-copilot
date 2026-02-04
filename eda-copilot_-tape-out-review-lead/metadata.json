@@ -1,0 +1,6 @@
+
+{
+  "name": "EDA Copilot: Tape-Out Review Lead",
+  "description": "An autonomous AI agent for VLSI CAD engineers to analyze EDA tool logs, assess silicon risk, and make authoritative tape-out decisions.",
+  "requestFramePermissions": []
+}
